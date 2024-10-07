@@ -13,7 +13,6 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 
-app.use('/heart-rate', heartRateRoutes);
 app.use('/api', heartRateRoutes);
 
 app.get('/', (req, res) => {
