@@ -55,6 +55,8 @@ const registerStudent = CatchAsync(async (req, res, next) => {
 });
 
 const studentLogin = CatchAsync(async (req, res, next) => {
+    const fullUrl = `${req.get('x-forwarded-proto')}://${req.get('x-forwarded-host')}${req.originalUrl}`;
+    console.log('Full URL:', fullUrl);
     try {
         const {email, password} = req.body;
         const student = await studentService.findOne({email});
