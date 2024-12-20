@@ -15,8 +15,8 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(cors());
 
-app.use('/api/student', studentRoutes);
-app.use('/api/topic', topicRoutes);
+app.use('/student', studentRoutes);
+app.use('/topic', topicRoutes);
 
 app.get('/', (req, res) => {
     res.send('Hello World!');
