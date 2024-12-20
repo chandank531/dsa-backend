@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/chandan/Documents/personal/heart-rate/logs/.2272c946cbbb919609db141fa6288cc79bbb1247-audit.json",
+    "files": [
+        {
+            "date": 1734601065105,
+            "name": "/home/chandan/Documents/personal/heart-rate/logs/combined-2024-12-19.log",
+            "hash": "40ddf93bcfb28fc66ad8f6abe1b6a753545a1c07b836737b07329e6b7c050ef4"
+        },
+        {
+            "date": 1734686545021,
+            "name": "/home/chandan/Documents/personal/heart-rate/logs/combined-2024-12-20.log",
+            "hash": "8953564b7f75dbc298ea4ead741fd9605fbd2e6cb515a005a51731aabe2a25d9"
+        }
+    ],
+    "hashType": "sha256"
+}

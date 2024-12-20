@@ -47,5 +47,10 @@ module.exports = {
         idle: 10000,
       },
     },
+    hashRounds: 10,
+    jwt: {
+      authTokenExpiry: 604800, // 7d
+      secretKey: envVars.JWT_SECRET_KEY,
+    },
 };
   

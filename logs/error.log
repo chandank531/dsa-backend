@@ -1,0 +1,558 @@
+2024-12-19T09:37:45.116Z [31merror[39m: uncaughtException: Cannot find module '../config/messages'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/ApiError.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../config/messages'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/ApiError.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/utils/ApiError.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:38:15.669Z [31merror[39m: uncaughtException: Cannot find module '../config/messages'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/ApiError.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../config/messages'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/ApiError.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/utils/ApiError.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:38:48.876Z [31merror[39m: uncaughtException: Cannot find module '../config/messages'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/ApiError.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../config/messages'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/ApiError.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/utils/ApiError.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:40:09.771Z [31merror[39m: uncaughtException: Cannot find module '../config/messages'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/ApiError.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../config/messages'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/ApiError.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/utils/ApiError.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:40:29.521Z [31merror[39m: uncaughtException: Cannot find module '../config/constants/messages'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/ServerError.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../config/constants/messages'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/ServerError.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/utils/ServerError.js:6:18)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:40:38.933Z [31merror[39m: uncaughtException: Cannot find module '../config/constants/messages'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/ServerError.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../config/constants/messages'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/ServerError.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/utils/ServerError.js:6:18)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:40:46.061Z [31merror[39m: uncaughtException: Cannot find module '../config/constants/messages'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/ServerError.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../config/constants/messages'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/ServerError.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/utils/ServerError.js:6:18)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:41:26.419Z [31merror[39m: uncaughtException: Cannot find module '../utils/encryption'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../utils/encryption'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js:7:44)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:41:35.192Z [31merror[39m: uncaughtException: Cannot find module '../utils/encryption'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../utils/encryption'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js:7:44)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:42:06.007Z [31merror[39m: uncaughtException: Cannot find module '../config/config'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/index.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../config/config'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/index.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/utils/index.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:42:11.891Z [31merror[39m: uncaughtException: Cannot find module '../config/config'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/index.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../config/config'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/index.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/utils/index.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:42:42.035Z [31merror[39m: uncaughtException: Cannot find module '../config/config'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/index.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../config/config'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/index.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/utils/index.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:43:20.059Z [31merror[39m: uncaughtException: Cannot find module '../config/config'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/index.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../config/config'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/index.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/utils/index.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:43:54.615Z [31merror[39m: uncaughtException: Cannot find module 'bcrypt'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/index.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module 'bcrypt'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/index.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/utils/index.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:44:00.135Z [31merror[39m: uncaughtException: Cannot find module 'bcrypt'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/index.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module 'bcrypt'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/index.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/utils/index.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:44:20.479Z [31merror[39m: uncaughtException: Cannot find module 'shortid'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/index.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module 'shortid'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/utils/index.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/utils/index.js:6:17)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:44:36.246Z [31merror[39m: uncaughtException: Route.post() requires a callback function but got a [object Object]
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/chandan/Documents/personal/heart-rate/node_modules/express/lib/router/route.js:216:15)
+    at proto.<computed> [as post] (/home/chandan/Documents/personal/heart-rate/node_modules/express/lib/router/index.js:521:19)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/routes/student.route.js:5:8)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/server.js:7:23)
+2024-12-19T09:47:03.791Z [31merror[39m: uncaughtException: Cannot find module '../middlewares/validate'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../middlewares/validate'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/routes/student.route.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:47:10.334Z [31merror[39m: uncaughtException: Cannot find module '../middlewares/validate'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../middlewares/validate'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/routes/student.route.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:47:36.423Z [31merror[39m: uncaughtException: Cannot find module '../middlewares/validate'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../middlewares/validate'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/routes/student.route.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:47:46.911Z [31merror[39m: uncaughtException: Cannot find module '../middlewares/validate'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../middlewares/validate'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/routes/student.route.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:47:58.600Z [31merror[39m: uncaughtException: Cannot find module '../middlewares/validate'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../middlewares/validate'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/routes/student.route.js:4:18)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:48:23.025Z [31merror[39m: uncaughtException: Cannot find module '../utils/pick'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/middlewares/Validate.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../utils/pick'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/middlewares/Validate.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/middlewares/Validate.js:2:14)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:48:30.141Z [31merror[39m: uncaughtException: Cannot find module '../utils/pick'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/middlewares/Validate.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../utils/pick'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/middlewares/Validate.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/middlewares/Validate.js:2:14)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:55:20.544Z [31merror[39m: uncaughtException: Cannot find module '../config/config'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/middlewares/sessionManager.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module '../config/config'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/middlewares/sessionManager.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/middlewares/sessionManager.js:2:16)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T09:55:47.037Z [31merror[39m: uncaughtException: Cannot find module 'jsonwebtoken'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/middlewares/sessionManager.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+Error: Cannot find module 'jsonwebtoken'
+Require stack:
+- /home/chandan/Documents/personal/heart-rate/src/middlewares/sessionManager.js
+- /home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js
+- /home/chandan/Documents/personal/heart-rate/src/routes/student.route.js
+- /home/chandan/Documents/personal/heart-rate/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/middlewares/sessionManager.js:3:13)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+2024-12-19T15:01:00.057Z [31merror[39m: uncaughtException: loginStudentSchema is not defined
+ReferenceError: loginStudentSchema is not defined
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/validations/topic.validation.js:19:3)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/routes/topic.route.js:4:24)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+2024-12-20T09:22:25.081Z [31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'AUTHENTICATION_ERROR')
+TypeError: Cannot read properties of undefined (reading 'AUTHENTICATION_ERROR')
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/middlewares/sessionManager.js:11:41)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:121:18)
+    at Object.<anonymous> (/home/chandan/Documents/personal/heart-rate/src/controllers/student.controller.js:8:24)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)

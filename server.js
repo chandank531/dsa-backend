@@ -2,18 +2,21 @@ require('dotenv').config();
 const express = require('express');
 const bodyParser = require('body-parser');
 const config = require('./src/config/envConfig');
+const cors = require('cors');
 
 console.log(config)
-const heartRateRoutes = require('./src/routes/heart-rate.route');
+const studentRoutes = require('./src/routes/student.route');
+const topicRoutes = require('./src/routes/topic.route');
 
 const app = express();
 const port = process.env.PORT || 3000;
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
+app.use(cors());
 
-
-app.use('/api', heartRateRoutes);
+app.use('/api/student', studentRoutes);
+app.use('/api/topic', topicRoutes);
 
 app.get('/', (req, res) => {
     res.send('Hello World!');
